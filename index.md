@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./_layouts/another-page.html).
+[Link to another page](./_layouts/another-page.md).
 [Link to another page](./_layouts/first_post.html).
 
 There should be whitespace between paragraphs.
