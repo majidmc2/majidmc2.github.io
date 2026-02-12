@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Android Penetration Testing - Don’t Go Near Stubborn Proxies!"
+description: "Penetration testing on an Android application written in Flutter with Frida, Burp Suite and Genymotion"
+keywords: burp suite, reverse engineering, Android Penetration Testing, Genymotion, Frida, OWASP MASVS
 ---
 
 ## Android Penetration Testing - Don’t Go Near Stubborn Proxies!
@@ -82,6 +85,6 @@ I hope this post has been useful for you.
 
 <br>
 
-[[back]](./)
+[[../]](./../index.md)
 
 <br>

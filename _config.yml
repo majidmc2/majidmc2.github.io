@@ -1,8 +1,8 @@
 # Your Website Title
-title: Majid Iranpour Website
+title: Majid-Iranpour
 
 # Your Website URL
-url: 'http://majidmc2.github.io'
+url: 'https://majidmc2.site'
 
 # Leave it default
 baseurl: '' 
@@ -15,7 +15,7 @@ ga_cv: UA-XXXXXXXX-X
 name: Majid Iranpour
 tagline: Security Engineer, Software Security Developer
 pic: profile.png # profile.png can be found at /assets/images/profile.png
-description: Security Researcher \ Bug Hunter \ Software Security Developer
+description: Security Researcher \ Bug Hunter \ Software Security Developer \ Reverse Engineering
 description_tiny: ''
 website: majidmc2.github.io # do not add http://
 linkedin: majidmc2

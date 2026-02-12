@@ -1,5 +1,8 @@
 ---
 layout: default
+title: "Deep Dive into Firefox Password Decryption via NSS3"
+description: "Mozilla Firefox credentials dumping"
+keywords: reverse engineering, windows api, malware, infostealer, c, windows kernel 
 ---
 
 ## Deep Dive into Firefox Password Decryption via NSS3
@@ -131,3 +134,8 @@ if (PK11SDR_Decrypt(&in, &out, NULL) == SECSuccess) {
 
 By understanding the `SECItem` structure and the `PK11SDR_Decrypt` function, developers can interact with Firefox’s encrypted credentials programmatically in a safe and controlled manner. Proper initialization and shutdown of NSS are critical to avoid memory leaks or inconsistent library states. This knowledge is foundational for research into browser security and automated password management systems.
 
+<br>
+
+[[../]](./../index.md)
+
+<br>
