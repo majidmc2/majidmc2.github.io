@@ -7,7 +7,7 @@ keywords: reverse engineering, windows api, malware, infostealer, c, windows ker
 
 ## Deep Dive into Firefox Password Decryption via NSS3
 
-#### [?  ⁄  ?  ⁄  ?]
+#### [06 / 01 / 2026]
 
 <br>
 
