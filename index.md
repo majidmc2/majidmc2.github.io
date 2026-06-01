@@ -5,4 +5,6 @@ layout: default
 
 ### Index of /post
 
-[✒️](./posts/dont-go-near-stubborn-proxies.md) [27  ⁄  7  ⁄  2023] Android Penetration Testing - Don’t Go Near Stubborn Proxies!
+[✒️](./posts/firefox-nss-decrypt.md) [06 / 01 / 2026] Deep Dive into Firefox Password Decryption via NSS3
+<br>
+[✒️](./posts/dont-go-near-stubborn-proxies.md) [27  ⁄  07  ⁄  2023] Android Penetration Testing - Don’t Go Near Stubborn Proxies!
